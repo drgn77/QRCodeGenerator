@@ -66,7 +66,6 @@ def handle_settings_flow():
     img.show()
     print(f"✅ Wygenerowano kod QR (wypełnienie: {fill}, tło: {back}).")
 
-# ====== Pętla główna ======
 def main():
     print("QR Code Generator")
     print("=" * 50)
